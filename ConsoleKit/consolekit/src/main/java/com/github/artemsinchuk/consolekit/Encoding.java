@@ -9,5 +9,6 @@ public class Encoding {
     public static final String BLUE = "\u001B[34m";
     public static final String MAGENTA = "\u001B[35m";
     public static final String CYAN = "\u001B[36m";
+    public static final String WHITE = "\u001B[37m";
     
 }
