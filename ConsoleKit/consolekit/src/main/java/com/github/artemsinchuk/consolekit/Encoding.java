@@ -10,5 +10,6 @@ public class Encoding {
     public static final String MAGENTA = "\u001B[35m";
     public static final String CYAN = "\u001B[36m";
     public static final String WHITE = "\u001B[37m";
+    public static final String BRIGHT_BLACK = "\u001B[30;1m";
     
 }
