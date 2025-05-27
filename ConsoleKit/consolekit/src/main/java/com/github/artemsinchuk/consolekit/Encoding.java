@@ -17,8 +17,9 @@ public class Encoding {
     public static final String BRIGHT_RED = "\u001B[31;1m";
     public static final String BRIGHT_GREEN = "\u001B[32;1m";
     public static final String BRIGHT_YELLOW = "\u001B[33;1m";
+    public static final String BRIGHT_BLUE = "\u001B[34;1m";
+    public static final String BRIGHT_MAGENTA = "\u001B[35;1m";
     public static final String BACKGROUND_RED = "\u001B[41m";
     public static final String BACKGROUND_GREEN = "\u001B[42m";
-    public static final String BRIGHT_BLUE = "\u001B[34;1m";
     
 }
