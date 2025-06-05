@@ -26,5 +26,6 @@ public class Encoding {
     public static final String BACKGROUND_RED = "\u001B[41m";
     public static final String BACKGROUND_GREEN = "\u001B[42m";
     public static final String BACKGROUND_YELLOW = "\u001B[43m";
+    public static final String BACKGROUND_BLUE = "\u001B[44m";
     
 }
