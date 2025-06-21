@@ -35,4 +35,5 @@ public class Encoding {
     public static final String BRIGHT_BACKGROUND_RED = "\u001B[41;1m";
     public static final String BRIGHT_BACKGROUND_GREEN = "\u001B[42;1m";
     public static final String BRIGHT_BACKGROUND_YELLOW = "\u001B[43;1m";
+    public static final String BRIGHT_BACKGROUND_BLUE = "\u001B[44;1m";
 }
